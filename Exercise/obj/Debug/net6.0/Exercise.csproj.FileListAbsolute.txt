@@ -1,0 +1,15 @@
+/Users/admin/Control test/Exercise/bin/Debug/net6.0/Exercise
+/Users/admin/Control test/Exercise/bin/Debug/net6.0/Exercise.deps.json
+/Users/admin/Control test/Exercise/bin/Debug/net6.0/Exercise.runtimeconfig.json
+/Users/admin/Control test/Exercise/bin/Debug/net6.0/Exercise.dll
+/Users/admin/Control test/Exercise/bin/Debug/net6.0/Exercise.pdb
+/Users/admin/Control test/Exercise/obj/Debug/net6.0/Exercise.csproj.AssemblyReference.cache
+/Users/admin/Control test/Exercise/obj/Debug/net6.0/Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Control test/Exercise/obj/Debug/net6.0/Exercise.AssemblyInfoInputs.cache
+/Users/admin/Control test/Exercise/obj/Debug/net6.0/Exercise.AssemblyInfo.cs
+/Users/admin/Control test/Exercise/obj/Debug/net6.0/Exercise.csproj.CoreCompileInputs.cache
+/Users/admin/Control test/Exercise/obj/Debug/net6.0/Exercise.dll
+/Users/admin/Control test/Exercise/obj/Debug/net6.0/refint/Exercise.dll
+/Users/admin/Control test/Exercise/obj/Debug/net6.0/Exercise.pdb
+/Users/admin/Control test/Exercise/obj/Debug/net6.0/Exercise.genruntimeconfig.cache
+/Users/admin/Control test/Exercise/obj/Debug/net6.0/ref/Exercise.dll
